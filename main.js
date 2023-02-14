@@ -1,4 +1,4 @@
-let Phrase = require("mhartl-palindrome");
+let Phrase = require("konstrukteur-palindrome");
 
 function palindromeTester(event) {
 	event.preventDefault();

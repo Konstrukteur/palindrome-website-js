@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "mhartl-palindrome": "^0.2.3"
+    "konstrukteur-palindrome": "^0.2.0"
   }
 }
